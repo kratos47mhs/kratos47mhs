@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kratos47mhs
+# 👋 Hi, I’m Farokh
 
 A passionate **DevOps Engineer** with hands-on experience in building, automating, and securing scalable infrastructure. I specialize in **Kubernetes**, **CI/CD**, **cloud-native technologies**, and **Linux system administration**.
 
